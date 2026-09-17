@@ -1,0 +1,7 @@
+a = int(input())
+b = ("(\\___/)")
+c = ("(='.'=)")
+d = ('(")_(")')
+print(b*a)
+print(c*a)
+print(d*a)
