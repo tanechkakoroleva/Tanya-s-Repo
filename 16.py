@@ -1,3 +1,3 @@
 a = float(input())
 b = a*19/100
-print(b)
+print(round(b,2))
