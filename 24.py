@@ -1,1 +1,4 @@
-print(0 if int(input())%2==0 else 1)
+n = int(input())
+print(n % 2)
+ 
+
