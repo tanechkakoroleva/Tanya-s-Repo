@@ -1,0 +1,5 @@
+a = input()
+if len(a) != 4: print('ERROR')
+elif len(set(a)) != 4: print('ERROR')
+elif 1900 <= int(a) <= 2050: print('ERROR')
+else: print('OK')
